@@ -1,0 +1,24 @@
+﻿<Window x:Class="Projekat_5._3DW.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:Projekat_5._3DW.podaci"
+        Title="Nova etiketa" Height="300" Width="300"
+        Icon="ikonice/icon_etiketa.ico"
+        WindowStartupLocation="CenterScreen"
+        DataContext="{Binding}"
+        ResizeMode="NoResize">
+        
+    <DockPanel >
+        <Grid Background="LightBlue">
+        <Label Height="31" FontSize="12" HorizontalAlignment="Left" Margin="12,17,0,0" Name="label1" VerticalAlignment="Top" Width="120" FontStretch="Normal" AllowDrop="False" VerticalContentAlignment="Top" FontWeight="Normal" FontStyle="Normal" Content="Oznaka etikete:" />
+        <TextBox Height="20" HorizontalAlignment="Left" Margin="126,21,0,0" Name="textBox1" VerticalAlignment="Top" Width="140" Text="{Binding Oznaka, Mode=TwoWay}" PreviewTextInput="textBox1_PreviewTextInput_1" />
+        <Label Content="Boja etikete:" Height="28" HorizontalAlignment="Left" Margin="12,40,0,0" Name="label2" VerticalAlignment="Top" Width="96" />
+        <xctk:ColorPicker Name="ClrPcker_Background" Width="140" Height="23" Margin="126,45,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" SelectedColor="{Binding Boja, Mode=TwoWay }"></xctk:ColorPicker>
+        <Label Content="Opis etikete:" Height="28" Margin="12,71,0,0" Name="label3" VerticalAlignment="Top" HorizontalAlignment="Left" Width="86" />
+        <TextBox Height="73" HorizontalAlignment="Left" Margin="12,98,0,0" Name="textBox2" VerticalAlignment="Top" Width="255" TextWrapping="Wrap" AcceptsReturn="True" Text="{Binding Opis, Mode=TwoWay}" PreviewTextInput="textBox2_PreviewTextInput" />
+        <Button Content="OK" Height="23" HorizontalAlignment="Left" Margin="192,224,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+            <Button Content="Odustani" Height="23" HorizontalAlignment="Left" Margin="102,224,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        </Grid>
+    </DockPanel>
+</Window>

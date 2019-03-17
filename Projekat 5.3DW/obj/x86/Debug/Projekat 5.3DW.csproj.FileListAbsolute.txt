@@ -1,0 +1,185 @@
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+c:\users\srecko\documents\visual studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window1.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window1.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window2.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window2.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window3.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window3.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window1.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window2.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window3.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window1.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window2.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Window3.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+C:\Users\Srecko\Documents\Visual Studio 2010\New folder\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaWindow.baml
+C:\Users\Srecko\Documents\Visual Studio 2010\Projects\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaWindow.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\tipLokala.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\etiketa.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\tipLokala.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\etiketa.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\lokal.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\lokal.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.lref
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.g.cs
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csprojResolveAssemblyReference.cache
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.lref
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.baml
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+D:\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+E:\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+E:\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csprojResolveAssemblyReference.cache
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.lref
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.baml
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+C:\Users\ra108-2013\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csprojResolveAssemblyReference.cache
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.lref
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.baml
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+C:\Users\ra15-2012\Desktop\hci\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csprojResolveAssemblyReference.cache
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Mapa.baml
+C:\Users\Stojic\Desktop\hci home\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Mapa.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.exe
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Projekat 5.3DW.pdb
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Mapa.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\PrikazLokalaIzMape.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Mapa.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\PrikazLokalaIzMape.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaEtiketa.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaLokala.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Lokal.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TabelaTipova.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\TipLokala.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\App.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.cache
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_MarkupCompile.lref
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\MainWindow.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Etiketa.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.g.resources
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat_5._3DW.Properties.Resources.resources
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csproj.GenerateResource.Cache
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.exe
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.pdb
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\VideoPlayer.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\VideoPlayer.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\HelpViewer.baml
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\HelpViewer.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW_Content.g.cs
+C:\Users\Srecko\Desktop\Projekat 5.3DW\Projekat 5.3DW\obj\x86\Debug\Projekat 5.3DW.csprojResolveAssemblyReference.cache
